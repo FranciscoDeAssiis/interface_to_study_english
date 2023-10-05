@@ -1,0 +1,4 @@
+1. Criar classes abstratas
+2. Implementação das classes abstratas
+3. Criar interface UI
+ 
